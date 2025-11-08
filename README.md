@@ -4,11 +4,13 @@
 Many businesses face increasing refund rates that directly impact profit margins and customer satisfaction.  
 The goal of this project is to **analyze the relationship between sales, refunds, and discounts** to identify root causes behind refund trends and propose data-driven solutions that improve revenue retention and customer loyalty.
 
+---
 
 ## 📊 Project Overview
 This project aims to analyze sales and refund patterns to identify performance gaps and opportunities to reduce refund losses.  
 It also explores how discounts and customer purchase behavior influence overall revenue performance.
 
+---
 
 ## ⚙️ Tools & Steps Used
 
@@ -26,6 +28,7 @@ It also explores how discounts and customer purchase behavior influence overall 
 **Purpose:**  
 To prepare a clean, structured dataset for Excel and Power BI, and ensure accuracy in refund and sales metrics.
 
+---
 
 ### 📊 Excel / Power Query – Data Transformation
 **Main Steps:**
@@ -38,6 +41,7 @@ To prepare a clean, structured dataset for Excel and Power BI, and ensure accura
 **Purpose:**  
 To create a unified dataset that can be visualized in Power BI.
 
+---
 
 ### 🧩 Power BI – Data Modeling & Visualization
 **Main Steps:**
@@ -61,6 +65,7 @@ To create a unified dataset that can be visualized in Power BI.
 **Purpose:**  
 To visualize refund and sales behavior and understand their effect on overall performance.
 
+---
 
 ### 🪄 PowerPoint – Final Report & Insights
 **Main Steps:**
@@ -71,6 +76,7 @@ To visualize refund and sales behavior and understand their effect on overall pe
 **Purpose:**  
 To present analysis results in a clear, story-driven format suitable for business audiences or LinkedIn showcase.
 
+---
 
 ## 📈 Insights & Findings
 - Refund rate (25%) is relatively high — indicates possible product or service dissatisfaction.  
@@ -78,6 +84,7 @@ To present analysis results in a clear, story-driven format suitable for busines
 - Average orders (3 per customer) show good engagement, yet revenue could rise if refund rate decreases.  
 - Net customer value remains close to gross, suggesting loyal but occasionally dissatisfied customers.
 
+---
 
 ## 💡 Recommendations
 1. Analyze **top refunded products** to find root causes (quality, delivery issues, or wrong expectations).  
@@ -86,13 +93,15 @@ To present analysis results in a clear, story-driven format suitable for busines
 4. Improve **post-sale support** and **refund handling efficiency** to retain customers.  
 5. Monitor refund trends monthly via Power BI to spot early signs of dissatisfaction.
 
+---
 
 ## 🔗 Project Files
 - 🧠 `SQL_Cleaning_and_Analysis.sql`
 - 📊 `Sales_Data_Transformed.xlsx`
-- 📈 `PowerBI_Sales_Refund.pdf`
+- 📈 `PowerBI_Sales_Refund.pbix`
 - 🎯 `Sales_and_Refund_Report.pptx`
 
+---
 
 ## 🔗 Connect with Me
 
