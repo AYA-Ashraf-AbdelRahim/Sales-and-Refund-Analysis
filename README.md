@@ -96,10 +96,15 @@ To present analysis results in a clear, story-driven format suitable for busines
 ---
 
 ## 🔗 Project Files
-- 🧠 `SQL_Cleaning_and_Analysis.sql`
-- 📊 `Sales_Data_Transformed.xlsx`
-- 📈 `PowerBI_Sales_Refund.pbix`
+- 🧠 `SQL script for sales and refund analysis`
+- 📈 `Dashboard Power Bi for Sales and Refunds `
 - 🎯 `Sales_and_Refund_Report.pptx`
+
+---
+
+### 🗂 **Dataset Source**
+The dataset used in this project was obtained from Kaggle:  
+🔗 [Product Sales and Returns Dataset](https://www.kaggle.com/datasets/yaminh/product-sales-and-returns-dataset)
 
 ---
 
